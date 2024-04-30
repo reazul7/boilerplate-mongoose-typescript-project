@@ -12,11 +12,6 @@
         "prepare": "husky",
         "precommit": "yarn lint && yarn format"
     },
-    "husky": {
-        "hooks": {
-            "pre-commit": "yarn precommit"
-        }
-    },
     "dependencies": {
         "cors": "^2.8.5",
         "dotenv": "^16.4.5",

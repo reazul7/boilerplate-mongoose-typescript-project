@@ -1,15 +1,15 @@
 # Boilerplate for Node project with typescript, mongoose, eslint, prettier, husky and lint-staged.
 
-#### Firstly clone this git repository
-#### Secondly install all dependencies using below commands
+#### Step:1 clone this git repository
+#### Step:2 install all dependencies using below commands
 ```bash
   yarn add
 ```
 
-#### Then create a new file named '.env'. Then copy all from '.env.example' to '.env' file.
-#### Now, In 'DATABASE_URL' replace your database <user_name>, <password> and <your-database-name>
+#### Step:3 create a new file named '.env'. Then copy all from '.env.example' to '.env' file.
+#### Step:4 Now, In 'DATABASE_URL' replace your database <user_name>, <password> and <your-database-name>
 
-#### Then for starting this project run below command
+#### Step:5 Then for starting this project run below command
 ```bash
   yarn start
 ```
